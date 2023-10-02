@@ -1,2 +1,2 @@
-# IBM_Data_Science_Professional_Certificate_Databases-and-SQL-for-Data-Science-with-Python
+# IBM_Data_Science_Professional_Certificate_Databases_and_SQL_for_Data_Science_with_Python
 Chicago_Improve Educational
