@@ -1,2 +1,2 @@
 # IBM_Data_Science_Professional_Certificate_Databases_and_SQL_for_Data_Science_with_Python
-Chicago_Improve Educational
+Scenario: You have been hired by an organization that strives to improve educational outcomes for children and young people in Chicago. Your job is to analyze the census, crime, and school data for a given neighborhood or district. You will identify causes that impact the enrollment, safety, health, environment ratings of schools.
